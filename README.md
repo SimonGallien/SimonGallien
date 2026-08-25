@@ -8,7 +8,7 @@
 ```                                                                                                          
 
 Ingénieur ESTIA avec 6 ans d'expérience en sport automobile — mise au point véhicule, CAO, données capteurs.
-Aujourd'hui spécialisé en **ML Engineering**, avec un focus sur la **maintenance prédictive** et les **LLMs**.
+Aujourd'hui spécialisé en **ML Engineering**
 
 ## 🛠️ Stack technique
 
